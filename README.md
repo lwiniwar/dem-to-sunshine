@@ -26,7 +26,7 @@ I do this by opening the DEM in [QGIS](https://www.qgis.org/download/) and right
 run using
 
 ```shell
-python main.py --args.dem-path demo/32693_5333_20_DOM.tif --args.lat 48.12466249 --args.lon 11.59677922 --args.height-above-ground 7.3 --args.output-prefix muc
+python main.py --args.dem-path demo/32693_5333_20_DOM.tif --args.lat 48.12466249 --args.lon 11.59677922 --args.height-above-ground 7.3 --args.output-prefix muc ---args.angular-res-deg 0.25
 ```
 
 (adapting parameters as needed).
