@@ -25,5 +25,5 @@ I do this by opening the DEM in QGIS and right-clicking on the location -> "Copy
 run using
 
 ```shell
-main.py --args.dem-path demo/32693_5333_20_DOM.tif --args.lat 48.124646473 --args.lon 11.598887668 --args.height-above-ground 7.3 --args.output-prefix orleansstr20
+main.py --args.dem-path demo/32693_5333_20_DOM.tif --args.lat 48.12466249 --args.lon 11.59677922 --args.height-above-ground 7.3 --args.output-prefix muc
 ```
