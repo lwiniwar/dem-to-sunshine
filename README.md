@@ -33,8 +33,11 @@ python main.py --args.dem-path demo/32693_5333_20_DOM.tif --args.lat 48.12466249
 
 ## Output 
 
-The result may look like this:
+The results may look like this:
 ![muc_plot.png](muc_plot.png)
+
+![muc_hemisphere.png](muc_hemisphere.png)
+
 
 ```
 --- 1. Terrain Analysis ---
